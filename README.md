@@ -24,6 +24,10 @@
 #membuat codingan listbox
 ![Screenshot_30](https://user-images.githubusercontent.com/81457697/114291036-4d7da900-9aae-11eb-99b4-1c939ab2275d.png)
 
+#hasil jadi listbox
+![Screenshot_23](https://user-images.githubusercontent.com/81457697/114291063-97668f00-9aae-11eb-9e74-a32d026596dd.png)
+
+
 
 
 
